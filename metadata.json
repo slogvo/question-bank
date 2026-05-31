@@ -1,0 +1,6 @@
+{
+  "name": "Ngân Hàng Câu Hỏi Trắc Nghiệm AI",
+  "description": "Hệ thống sinh ngân hàng câu hỏi trắc nghiệm thông minh bằng AI dựa vào cấu trúc tài liệu, bài giảng và PDF tải lên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
